@@ -1,3 +1,3 @@
 <?php
-echo "Abd Command";
+echo "Abd --- Command";
 ?>
